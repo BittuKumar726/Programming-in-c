@@ -1,0 +1,8 @@
+Caculate the Nth term:
+Sample Input 
+
+5
+1 2 3
+Sample Output 
+
+11
